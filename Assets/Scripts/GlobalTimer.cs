@@ -10,12 +10,12 @@ public class GlobalTimer : MonoBehaviour
     public GameObject timeDisplay02;
     public bool isTakingTime = false;
     public int theSeconds = 150;
-
+    public static int extendScore;
 
 
     void Update()
     {
-
+        extendScore = theSeconds;
         if (isTakingTime == false)
         {
             StartCoroutine(SubtractSecond());
