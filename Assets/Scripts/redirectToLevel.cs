@@ -4,18 +4,18 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 
-public class redirectToLevel : MonoBehaviour
+public class RedirectToLevel : MonoBehaviour
 {
 
-    public static int redirectToLevel_ = 1;
+    public static int redirectToLevel;
 
 
     // Update is called once per frame
     void Update()
     {
-        if(redirectToLevel_ == 1)
+        if (redirectToLevel == 2)
         {
-            SceneManager.LoadScene(redirectToLevel_);
+            SceneManager.LoadScene(redirectToLevel);
         }
     }
 }
