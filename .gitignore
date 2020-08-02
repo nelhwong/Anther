@@ -5,6 +5,7 @@
 [Bb]uilds/
 [Ll]ogs/
 Assets/Imports/Standard Assets
+Assets/Plugins
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # [Aa]ssets/AssetStoreTools*
