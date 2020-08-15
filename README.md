@@ -3,6 +3,8 @@ This is a project for CS461/561 Open Source Software, Summer of 2020.
 Nelson Wong and Milan Mauck are both students that are trying to learn the game engine Unity to create a platformer game called Anther.
 Anther is a first person platformer where the player will collect gems, jump over, and fall a lot, in order to reach the end!
 
+Note: The scripts are in /Anther/Assets/Scripts/
+
 # Installation
 To build and contribute to the project, you will need to
 * Install Unity 3D.
@@ -117,3 +119,9 @@ Pause Menu: https://giant.gfycat.com/SilkyRespectfulGoosefish.webm
 Level 1 and transition to level 2: https://giant.gfycat.com/CanineFluidHarvestmouse.webm
 
 Level 2: https://giant.gfycat.com/CreativePettyIcefish.webm
+
+# References
+
+Lighting: https://www.youtube.com/watch?v=VnG2gOKV9dw
+Respawn: https://www.youtube.com/watch?v=tB_ihytqGpo&t=272s
+Menu, Pause, Audio, Gems: https://www.youtube.com/watch?v=7Ow3b1DfGmo&list=PLZ1b66Z1KFKhPpF2AkGpSCIQfRplQtEzx&index=1
