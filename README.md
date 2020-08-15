@@ -1,9 +1,9 @@
 # Anther
 This is a project for CS461/561 Open Source Software, Summer of 2020. 
 Nelson Wong and Milan Mauck are both students that are trying to learn the game engine Unity to create a platformer game called Anther.
-Anther is a first person platformer where the player will collect gems, jump over, and fall a lot, in order to reach the end!
+Anther is a first person platformer where the player will collect gems, jump over, and fall a lot, in order to reach the end! Different platforms give different abilites to the player to beat levels. Parkour is the name of the game.
 
-Note: The scripts are in /Anther/Assets/Scripts/
+Note: The scripts are in /Assets/Scripts/
 
 # Demo
 
@@ -26,7 +26,7 @@ git clone https://github.com/nelhwong/Anther.git
 ```
 * Open the repo in Unity
 * Go File -> Build and run
-
+* Enjoy!
 
 # Example Code
 
