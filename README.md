@@ -5,6 +5,17 @@ Anther is a first person platformer where the player will collect gems, jump ove
 
 Note: The scripts are in /Anther/Assets/Scripts/
 
+# Demo
+
+Pause Menu: https://giant.gfycat.com/SilkyRespectfulGoosefish.webm
+
+Level 1 and transition to level 2: https://giant.gfycat.com/CanineFluidHarvestmouse.webm
+
+Level 2: https://giant.gfycat.com/CreativePettyIcefish.webm
+
+Level 3: https://giant.gfycat.com/AssuredSeparateGartersnake.webm
+
+
 # Installation
 To build and contribute to the project, you will need to
 * Install Unity 3D.
@@ -112,14 +123,6 @@ public class MovingPlatforms : MonoBehaviour
     }
 } 
 ```
-# Demo
-
-Pause Menu: https://giant.gfycat.com/SilkyRespectfulGoosefish.webm
-
-Level 1 and transition to level 2: https://giant.gfycat.com/CanineFluidHarvestmouse.webm
-
-Level 2: https://giant.gfycat.com/CreativePettyIcefish.webm
-
 # References
 
 Lighting: https://www.youtube.com/watch?v=VnG2gOKV9dw
