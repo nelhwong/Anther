@@ -10,6 +10,50 @@ In order to work around with the project, you will need to download Unity Person
 
 After you have Unity installed, you will clone the repo. After you have cloned it, you will be able to open the scences and interact with the game components. 
 
+# Example Code
+public class MovingPlatforms : MonoBehaviour
+{
+    public Transform movingPlatform;
+    public Transform p1;
+    public Transform p2;
+    public Vector3 new_p;
+    public string currentState;
+    public float smooth;
+    public float resetTime;
+    // Start is called before the first frame update
+    void Start()
+    {
+        ChangeTarget();
+
+    }
+
+    // Update is called once per frame
+    void FixedUpdate()
+    {
+        movingPlatform.position = Vector3.Lerp(movingPlatform.position, new_p, smooth * Time.deltaTime);
+
+    }
+
+    void ChangeTarget()
+    {
+        if (currentState == "Moving to p1")
+        {
+            currentState = "Moving to p2";
+            new_p = p2.position;
+        }
+        else if (currentState == "Moving to p2")
+        {
+            currentState = "Moving to p1";
+            new_p = p1.position;
+        }
+        else if (currentState == "")
+        {
+            currentState = "Moving to p2";
+            new_p = p2.position;
+        }
+
+        Invoke("ChangeTarget", resetTime);
+    }
 # Demo
 
 Pause Menu: https://giant.gfycat.com/SilkyRespectfulGoosefish.webm
