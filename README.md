@@ -12,4 +12,4 @@ After you have Unity installed, you will clone the repo. After you have cloned i
 
 # Demo
 
-Pause Menu: https://gfycat.com/silkyrespectfulgoosefish
+Pause Menu: https://giant.gfycat.com/SilkyRespectfulGoosefish.webm
