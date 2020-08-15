@@ -10,5 +10,7 @@ In order to work around with the project, you will need to download Unity Person
 
 After you have Unity installed, you will clone the repo. After you have cloned it, you will be able to open the scences and interact with the game components. 
 
+# Demo
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
