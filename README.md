@@ -126,4 +126,4 @@ Lighting: https://www.youtube.com/watch?v=VnG2gOKV9dw
 
 Respawn: https://www.youtube.com/watch?v=tB_ihytqGpo&t=272s
 
-Menu, Pause, Audio, Gems: https://www.youtube.com/watch?v=7Ow3b1DfGmo&list=PLZ1b66Z1KFKhPpF2AkGpSCIQfRplQtEzx&index=1
+Menu, Pause, Audio, Gems, Score: https://www.youtube.com/watch?v=7Ow3b1DfGmo&list=PLZ1b66Z1KFKhPpF2AkGpSCIQfRplQtEzx&index=1
