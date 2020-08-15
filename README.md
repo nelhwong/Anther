@@ -49,7 +49,9 @@ if (Physics.SphereCast(transform.position, 0.3f, Vector3.down, out hitInfo, ((m_
         movementSettings.ForwardSpeed = 8;
     }
 }
+
 ```
+# Plaform Movement
 
 Here is some example code for platform movement. This function will only support two positions, p1 and p2. You can modify it to support more positions or you can add new variables to interact with the lerp. 
 ```
