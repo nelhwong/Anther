@@ -124,6 +124,9 @@ public class MovingPlatforms : MonoBehaviour
 } 
 ```
 # References
+Unity Standard Assets: https://docs.unity3d.com/560/Documentation/Manual/HOWTO-InstallStandardAssets.html
+
+Skybox: https://assetstore.unity.com/packages/2d/textures-materials/sky/starfield-skybox-92717
 
 Lighting: https://www.youtube.com/watch?v=VnG2gOKV9dw
 
