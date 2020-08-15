@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿//Referenced from https://youtu.be/tB_ihytqGpo
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -15,6 +16,7 @@ public class RespawnScript : MonoBehaviour
         {
             player.transform.position = respawnPoint.transform.position;
             Physics.SyncTransforms();
+            player.GetComponent<Rigidbody>().velocity = Vector3.zero;
         }
     }
 

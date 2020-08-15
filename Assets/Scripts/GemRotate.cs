@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿//Referenced from Jimmy Vegas
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

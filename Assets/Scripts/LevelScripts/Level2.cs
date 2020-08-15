@@ -8,8 +8,8 @@ public class Level2 : MonoBehaviour
     public GameObject fadeIn;
     void Start()
     {
-        RedirectToLevel.redirectToLevel = 3;
-        RedirectToLevel.nextLevel = 4;
+        RedirectToLevel.redirectToLevel = 2;
+        RedirectToLevel.nextLevel = 3;
 
         StartCoroutine(FadeInOff());
 
