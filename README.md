@@ -1,14 +1,19 @@
 # Anther
-
 This is a project for CS461/561 Open Source Software, Summer of 2020. 
 Nelson Wong and Milan Mauck are both students that are trying to learn the game engine Unity to create a platformer game called Anther.
-
-Anther is a basic platformer game where the user will collect gems, jump over, and fall a lot, in order to reach the end. The character will be in first person. 
+Anther is a first person platformer where the player will collect gems, jump over, and fall a lot, in order to reach the end!
 
 # Installation
-In order to work around with the project, you will need to download Unity Personal here: https://store.unity.com/#plans-individual
+To build and contribute to the project, you will need to
+* Install Unity 3D.
+https://unity3d.com/get-unity/download
+* Clone this repo:
+```
+git clone https://github.com/nelhwong/Anther.git
+```
+* Open the repo in Unity
+* Go File -> Build and run
 
-After you have Unity installed, you will clone the repo. After you have cloned it, you will be able to open the scences and interact with the game components. 
 
 # Example Code
 
