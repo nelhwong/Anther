@@ -11,6 +11,7 @@ In order to work around with the project, you will need to download Unity Person
 After you have Unity installed, you will clone the repo. After you have cloned it, you will be able to open the scences and interact with the game components. 
 
 # Example Code
+```
 public class MovingPlatforms : MonoBehaviour
 {
     public Transform movingPlatform;
@@ -54,6 +55,7 @@ public class MovingPlatforms : MonoBehaviour
 
         Invoke("ChangeTarget", resetTime);
     }
+```
 # Demo
 
 Pause Menu: https://giant.gfycat.com/SilkyRespectfulGoosefish.webm
