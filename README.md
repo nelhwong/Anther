@@ -12,5 +12,4 @@ After you have Unity installed, you will clone the repo. After you have cloned i
 
 # Demo
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
+Pause Menu: https://gfycat.com/silkyrespectfulgoosefish
